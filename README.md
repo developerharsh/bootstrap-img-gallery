@@ -1,2 +1,2 @@
 # bootstrap-img-gallery
-It is a image gallery using bootstrap
+It is a image gallery using bootstrap library.
